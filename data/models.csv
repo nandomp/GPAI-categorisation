@@ -1,0 +1,20 @@
+model,family,release_year,votes_gpai,votes_not_gpai,votes_unsure,label
+GPT-3.5-Turbo,OpenAI,2023,12,88,12,non-GPAI
+GPT-4o,OpenAI,2024,102,4,6,GPAI
+OpenAI o1-mini,OpenAI,2024,107,3,2,GPAI
+OpenAI o1,OpenAI,2024,111,0,1,GPAI
+OpenAI o3-mini,OpenAI,2025,110,0,2,GPAI
+GPT-5.2-Chat,OpenAI,2026,112,0,0,GPAI
+LLaMA-3.2-1B-Instruct,Meta/LLaMA,2024,10,99,3,non-GPAI
+LLaMA-3.2-3B-Instruct,Meta/LLaMA,2024,8,98,6,non-GPAI
+LLaMA-3.2-11B-Instruct,Meta/LLaMA,2024,17,88,7,non-GPAI
+LLaMA-3.2-90B-Instruct,Meta/LLaMA,2024,86,24,2,GPAI
+LLaMA-3.1-405B-Instruct,Meta/LLaMA,2024,88,23,1,GPAI
+LLaMA-4-17B-128E,Meta/LLaMA,2025,108,3,1,GPAI
+DK-R1-Dist-Qwen-1.5B,DeepSeek,2025,11,93,8,non-GPAI
+DK-R1-Dist-Qwen-7B,DeepSeek,2025,6,102,4,non-GPAI
+DK-R1-Dist-Qwen-14B,DeepSeek,2025,24,85,3,non-GPAI
+DK-R1-Dist-Qwen-32B,DeepSeek,2025,98,13,1,GPAI
+Gemini-2.5-Flash,Google,2025,111,0,1,GPAI
+Gemini-3.1-Flash,Google,2026,104,7,1,GPAI
+Gemini-3.1-Pro,Google,2026,112,0,0,GPAI
