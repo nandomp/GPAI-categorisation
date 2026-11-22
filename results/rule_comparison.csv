@@ -1,0 +1,9 @@
+,in_sample_acc,loocv_acc,uncertainty_fraction
+4-domain mean,0.737,0.895,0.158
+arithmetic mean,0.947,0.895,0.0
+geometric mean,0.947,0.895,0.053
+harmonic mean,0.895,0.895,0.053
+MinSlack,0.684,0.895,0.105
+BDB_q25,1.0,0.947,0.0
+>=9/18,0.947,0.895,0.0
+>=13/18,0.789,0.842,0.105
